@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.background-color{
+  @apply  bg-gradient-to-br from-[#bb1787] to-[#09b9c5];
+}
